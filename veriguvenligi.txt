@@ -1,0 +1,20 @@
+Veri Güvenliği
+SSL
+https://diyetlink.com sunucularında kullanılan SSL, kullanıcılarımız ve sistem arasındaki verilerin şifrelenerek güvenli şekilde transferini temin ediyor. Kullanılan şifreleme, bankalarda kullanılan şifreleme standartları ile aynıdır.
+Kullanıcı Erişimi
+Sizin tarafınızdan davet edilmediği sürece, kimsenin firma hesabınıza erişimi sağlanmaz. Sadece, teknik veya sistemsel bir arıza oluşması durumunda, izniniz üzerine yetkilendirilmiş https://diyetlink.com/ personeli destek amacı ile ilgili verinize ulaşır.
+Kullanıcı Şifreleri
+Kullanıcıların güçlü şifre yaratması beklenmektedir ve yarattıkları şifrelerin gizliliğinden kullanıcıların kendileri sorumludur. Çoklu sayıda yanlış giriş yapılması durumunda kullanıcı hesabı bloke edilir. Uzun süre açık kalan oturumlar otomatik olarak kapatılır.
+)
+Veri Paylaşımı
+Veri transferi sizin onayınız olmadan ve yeterli güvenliğe sahip olmayan iş ortaklarımızla paylaşılmaz.
+Veri Yedeklemesi
+Olası teknik problemlere karşı verilerinizin günlük yedeklemesi yapılmaktadır.
+Verileriniz https://diyetlink.com/ ile daha güvende
+https://diyetlink.com/ ile verileriniz bilgisayarınızda depolanmaz. Böylece bilgisayarınızın bozulması, çalınması ya da kaybolması durumunda, verileriniz tamamen güvende kalır.
+Verilerinizi şirket içinde ya da dışında herhangi bir kişi ile paylaşmanız gereken durumlarda, eposta ya da cd ile göndermek yerine, verilerinizi paylaşmak istediğiniz kişileri kullanıcı olarak atayarak verilerinize çok daha güvenli erişim sağlayabilirsiniz.
+Verilerinizin güvenliği için:
+Kimsenin tahmin edemeyeceği şifre belirleyin.
+Şifrenizi kimse ile paylaşmayın
+Şifrenizi herhangi bir kağıda yazarak, ortada bırakmayın.
+Tarayıcınızı güncelleyin.

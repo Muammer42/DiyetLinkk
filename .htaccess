@@ -1,0 +1,13 @@
+
+# BEGIN Sitepad
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
+</IfModule>
+# END Sitepad
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Bu etki alanı, “PHP” paketini miras alır.
+# php -- END cPanel-generated handler, do not edit
